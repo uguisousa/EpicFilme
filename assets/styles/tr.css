@@ -1,0 +1,5 @@
+.navbar-custom {
+    transition: background-color 0.5s;
+}
+.navbar-scrolled {
+    background-color: #000000d0 !important; }
