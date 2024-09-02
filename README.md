@@ -14,5 +14,5 @@
  <br>
  
 > [!TIP]
-> Confira um pouco do desenvolvimento do site: <a href="https://youtu.be/vGRAFcQ60jI?si=vxSREbFA347C1TF1">EpiC Filmes</a>
+> *Confira um pouco do desenvolvimento do site: <a href="https://youtu.be/vGRAFcQ60jI?si=vxSREbFA347C1TF1">EpiC Filmes</a>*
 
