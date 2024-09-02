@@ -4,7 +4,7 @@
 > Neste repositório estarão todas as informações sobre o projeto, um projeto criado para a faculdade.
 
 <div>
-<h3>Programas/Plataformas que utilizamos</h3>
+<h3>Programas/Plataformas que utilizei</h3>
 <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
 <li><a href=https://eclipseide.org/">Eclipse-ide</a></li>
 <li><a href="https://www.mysql.com/">MySQL</a></li>
