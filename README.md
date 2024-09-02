@@ -18,4 +18,4 @@
 
 > Front-end do **website** desenvolvido inteiramente por mim, com uma breve inspiração na Netflix! <a href="https://www.instagram.com/uguisousa">@uguisousa
 </a>
-<img width="50px" src="assets/image/captura.png">
+<img width="300px" src="assets/image/captura.png">
